@@ -9,3 +9,16 @@ sudo apt install python3 -y
 
 sudo apt install python3-pip -y
 pip3 --version
+
+
+sudo apt install make -y
+make --version
+
+
+sudo apt update
+sudo apt install python3-venv -y
+
+
+
+
+
